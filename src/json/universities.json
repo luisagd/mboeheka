@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Universidad Nacional de Asunción",
+    "acceptance_rate": "44,96%",
+    "location": "San Lorenzo, Paraguay",
+    "cost": "1600000 guaraníes",
+    "description": "Universidad pública establecida en 1889, conocida por su amplia oferta académica y su contribución a la investigación y el desarrollo en Paraguay.",
+    "majors": [
+      1, 3, 4, 8, 9, 13, 14, 15, 16, 18, 22, 23, 24, 25, 26, 31, 33, 34, 36, 37,
+      40, 41, 42, 43, 45, 46, 47, 49, 51, 54, 56, 57, 59, 67, 68, 69, 71, 72,
+      73, 76, 77, 78, 79, 80, 83, 84, 86, 87, 88, 91, 92, 94, 95, 96, 97, 100,
+      103, 111, 112, 113, 115, 117, 122, 123, 124
+    ],
+    "url": "universidad-nacional-de-asuncion",
+    "photo": "portada_una.jpg"
+  },
+  {
+    "name": "Universidad Católica Nuestra Señora de la Asunción",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad Católica Nuestra Señora de la Asunción es una universidad privada católica con una amplia gama de programas académicos en áreas como Medicina, Ingeniería, y Ciencias Sociales.",
+    "majors": [
+      4, 7, 8, 9, 11, 17, 22, 23, 24, 25, 28, 31, 33, 34, 36, 37, 42, 43, 58,
+      59, 110, 112, 113, 115, 117, 120, 124
+    ],
+    "photo": "portada_uca.jpg"
+  },
+  {
+    "name": "Universidad Politécnica y Artística del Paraguay",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Esta universidad se dedica a ofrecer formación técnica y artística en áreas como ingeniería, diseño y tecnología, preparando a los estudiantes para el mercado laboral.",
+    "majors": [25, 112],
+    "photo": "portada_upap.jpg"
+  },
+  {
+    "name": "Universidad Autónoma de Asunción",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad Autónoma de Asunción es una universidad privada que ofrece una variedad de carreras en áreas como Derecho, Psicología, y Ciencias de la Información.",
+    "majors": [4, 13, 17, 18, 23, 35, 43, 82, 98, 113, 115, 117],
+    "photo": "portada_uaa.jpg"
+  },
+  {
+    "name": "Universidad del Norte",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad del Norte ofrece programas en diversas disciplinas con un enfoque en la calidad educativa y la formación profesional.",
+    "majors": [9, 23, 25, 43, 89, 112, 113, 115, 116, 117],
+    "photo": "portada_uninorte.jpg"
+  },
+  {
+    "name": "Universidad del Pacífico Privada",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad del Pacífico Privada proporciona educación de calidad en áreas clave como negocios y tecnología, preparando a los estudiantes para desafíos globales.",
+    "majors": [4, 112, 113, 115],
+    "photo": "portada_up.png"
+  },
+  {
+    "name": "Universidad Americana",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad Americana es una universidad privada con una amplia oferta académica en áreas como Administración, Derecho, Economía, e Ingeniería.",
+    "majors": [4, 8, 17, 22, 23, 24, 35, 42, 43, 54, 90],
+    "photo": "portada_americana.jpg"
+  },
+  {
+    "name": "Universidad Columbia del Paraguay",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad Columbia del Paraguay ofrece programas en áreas como Arquitectura, Contaduría Pública, e Ingeniería Agronómica.",
+    "majors": [8, 22, 31, 90, 105, 117],
+    "photo": "portada_columbia.jpg"
+  },
+  {
+    "name": "Universidad Nacional de Caaguazú",
+    "acceptance_rate": "N/A",
+    "location": "Caaguazú, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad pública dedicada a la formación profesional en diversas áreas, con un enfoque en el desarrollo regional y la inclusión educativa.",
+    "majors": [4, 23, 24, 25, 43, 48, 112, 115],
+    "photo": "portada_uncaa.jpeg"
+  },
+  {
+    "name": "Universidad de la Integración de las Américas",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad de la Integración de las Américas está comprometida con la formación integral de sus estudiantes, promoviendo la integración regional en América Latina.",
+    "majors": [4, 17, 22, 23, 25, 43, 50, 59, 112, 113],
+    "photo": "portada_unida.jpg"
+  },
+  {
+    "name": "Universidad del Cono Sur de las Américas",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad del Cono Sur de las Américas ofrece una amplia gama de programas en áreas como negocios, ingeniería y ciencias sociales, enfocándose en la formación integral de sus estudiantes.",
+    "majors": [4, 18, 38, 42, 43, 64, 117],
+    "photo": "portada_conosur.jpg"
+  },
+
+  {
+    "name": "Universidad Autónoma de Encarnación",
+    "acceptance_rate": "N/A",
+    "location": "Encarnación, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad Autónoma de Encarnación es una universidad privada que ofrece programas en Derecho y Análisis de Sistemas Informáticos.",
+    "majors": [7, 22, 23],
+    "photo": "portada_unae.jpg"
+  },
+
+  {
+    "name": "Universidad Autónoma del Paraguay",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad Autónoma del Paraguay es una universidad privada que ofrece programas en diversas áreas, incluyendo Odontología y Ciencias de la Salud.",
+    "majors": [115],
+    "photo": "portada_uap.jpg"
+  },
+  {
+    "name": "Universidad Autónoma San Sebastián",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad Autónoma San Sebastián es una institución privada conocida por su oferta en Administración de Empresas.",
+    "majors": [4],
+    "photo": "portada_uass.jpeg"
+  },
+
+  {
+    "name": "Universidad Central del Paraguay",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad Central del Paraguay ofrece una variedad de carreras, destacando en Medicina.",
+    "majors": [112],
+    "photo": "portada_ucp.jpg"
+  },
+  {
+    "name": "Universidad Centro Médico Bautista",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad Centro Médico Bautista está especializada en la formación de profesionales en el área de la salud, incluyendo Psicología.",
+    "majors": [25, 117],
+    "photo": "portada_ucmb.jpg"
+  },
+
+  {
+    "name": "Universidad Comunera",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad Comunera es una institución que se enfoca en la formación de profesionales en Administración Agraria y otras áreas relacionadas.",
+    "majors": [2],
+    "photo": "portada_ucom.jpg"
+  },
+  {
+    "name": "Universidad de Desarrollo Sustentable",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad de Desarrollo Sustentable se centra en ofrecer programas académicos que promuevan la sostenibilidad y el desarrollo ambiental.",
+    "majors": [4, 7, 22],
+    "photo": "portada_uds.jpg"
+  },
+
+  {
+    "name": "Universidad Evangélica del Paraguay",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Evangélica del Paraguay ofrece una educación basada en principios cristianos, con programas en ciencias sociales, administración y teología.",
+    "majors": [25, 123],
+    "photo": "portada_uep.jpg"
+  },
+  {
+    "name": "Universidad Gran Asunción",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Gran Asunción brinda formación en diversas áreas del conocimiento, destacando en negocios y derecho.",
+    "majors": [4, 23],
+    "photo": "portada_unigran.png"
+  },
+  {
+    "name": "Universidad Hispano Guaraní",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Hispano Guaraní ofrece una educación integral con énfasis en áreas como la ingeniería y las ciencias sociales, fomentando el desarrollo regional.",
+    "majors": [25, 115],
+    "photo": "portada_uhg.jpg"
+  },
+  {
+    "name": "Universidad Iberoamericana",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Iberoamericana es conocida por su enfoque en la formación académica de alta calidad en áreas como administración, derecho y ingeniería.",
+    "majors": [4, 22, 23, 25, 59, 113, 117],
+    "photo": "portada_unibe.jpg"
+  },
+  {
+    "name": "Universidad Internacional Tres Fronteras",
+    "acceptance_rate": "N/A",
+    "location": "Ciudad del Este, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Internacional Tres Fronteras se especializa en la formación de profesionales en áreas clave, promoviendo la integración y el desarrollo en la región fronteriza.",
+    "majors": [9, 13, 23, 43],
+    "photo": "portada_uninter.jpg"
+  },
+  {
+    "name": "Universidad La Paz",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad La Paz ofrece una educación en diversas disciplinas con un enfoque en el desarrollo humano y profesional.",
+    "majors": [22, 25, 59, 93, 120],
+    "photo": "portada_upaz.jpeg"
+  },
+  {
+    "name": "Universidad María Auxiliadora",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad María Auxiliadora es una institución privada que proporciona educación de alta calidad en áreas como administración y tecnología.",
+    "majors": [25, 112],
+    "photo": "portada_umax.png"
+  },
+  {
+    "name": "Universidad Metropolitana de Asunción",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Metropolitana de Asunción se dedica a ofrecer una educación integral y de calidad en diversas disciplinas, destacando en áreas de negocios y tecnología.",
+    "majors": [4, 23, 25],
+    "photo": "portada_uma.jpg"
+  },
+
+  {
+    "name": "Universidad Nacional de Canindeyú",
+    "acceptance_rate": "N/A",
+    "location": "Canindeyú, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Nacional de Canindeyú ofrece una educación enfocada en el desarrollo regional, con programas en ciencias sociales y económicas.",
+    "majors": [1, 6, 14, 22, 23, 25, 31],
+    "photo": "portada_unican.jpg"
+  },
+  {
+    "name": "Universidad Nacional de Concepción",
+    "acceptance_rate": "N/A",
+    "location": "Concepción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad pública con una oferta académica diversificada y un fuerte enfoque en la formación técnica y profesional para la región.",
+    "majors": [1, 3, 16, 22, 31, 34, 35, 44, 112, 115],
+    "photo": "portada_unc.png"
+  },
+  {
+    "name": "Universidad Nacional de Itapúa",
+    "acceptance_rate": "N/A",
+    "location": "Itapúa, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Nacional de Itapúa ofrece educación superior en varias disciplinas, con un enfoque en la investigación y el desarrollo regional.",
+    "majors": [1, 16, 22, 23, 33, 34, 35, 36, 43, 49, 61, 99, 109, 112, 117],
+    "photo": "portada_uni.jpg"
+  },
+  {
+    "name": "Universidad Nacional de Pilar",
+    "acceptance_rate": "N/A",
+    "location": "Pilar, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad pública dedicada a proporcionar educación de calidad en áreas como ingeniería, derecho y ciencias sociales.",
+    "majors": [6, 7, 16, 22, 23, 25, 32],
+    "photo": "portada_unp.png"
+  },
+  {
+    "name": "Universidad Nacional de Villarrica del Espíritu Santo",
+    "acceptance_rate": "N/A",
+    "location": "Villarrica, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad pública con un enfoque en la formación técnica y profesional, promoviendo el desarrollo regional y la inclusión educativa.",
+    "majors": [22, 25, 48],
+    "photo": "portada_unves.png"
+  },
+  {
+    "name": "Universidad Nacional del Este",
+    "acceptance_rate": "N/A",
+    "location": "Ciudad del Este, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Nacional del Este ofrece una educación integral en varias áreas, destacando en programas de negocios y tecnología.",
+    "majors": [
+      1, 7, 15, 16, 18, 23, 24, 25, 31, 33, 38, 50, 92, 97, 99, 104, 117
+    ],
+    "photo": "portada_une.jpg"
+  },
+  {
+    "name": "Universidad Nihon Gakko",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Nihon Gakko ofrece programas educativos con un enfoque en la cultura y tecnología japonesa, proporcionando una formación especializada en estas áreas.",
+    "majors": [4, 16],
+    "photo": "portada_ng.jpg"
+  },
+  {
+    "name": "Universidad Paraguayo Alemana",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Paraguayo Alemana se enfoca en la formación en áreas de ingeniería, tecnología y negocios, con una fuerte influencia de la cultura y tecnología alemana.",
+    "majors": [39, 42, 121],
+    "photo": "portada_upa.png"
+  },
+
+  {
+    "name": "Universidad Privada del Este",
+    "acceptance_rate": "N/A",
+    "location": "Ciudad del Este, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Privada del Este ofrece una variedad de programas educativos con un enfoque en la formación profesional y el desarrollo económico de la región.",
+    "majors": [4, 11, 23, 43, 59, 112],
+    "photo": "portada_upe.jpg"
+  },
+  {
+    "name": "Universidad Privada María Serrana",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Privada María Serrana ofrece educación en áreas clave como negocios y tecnología, con un enfoque en la calidad académica y el desarrollo profesional.",
+    "majors": [25],
+    "photo": "portada_ums.jpg"
+  },
+  {
+    "name": "Universidad San Carlos",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad San Carlos se enfoca en proporcionar una educación de calidad en áreas como derecho, ingeniería y ciencias sociales, con un enfoque integral en el desarrollo de sus estudiantes.",
+    "majors": [5, 48],
+    "photo": "portada_usc.jpg"
+  },
+  {
+    "name": "Universidad San Ignacio de Loyola",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad San Ignacio de Loyola ofrece programas educativos con un enfoque en la formación integral y la excelencia académica en áreas como negocios, ingeniería y derecho.",
+    "majors": [4, 110],
+    "photo": "portada_usil.jpeg"
+  },
+  {
+    "name": "Universidad San Lorenzo",
+    "acceptance_rate": "N/A",
+    "location": "San Lorenzo, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad San Lorenzo se especializa en la formación de profesionales en áreas técnicas y humanísticas, con un fuerte compromiso con la calidad educativa y el desarrollo regional.",
+    "majors": [9, 18, 23, 25],
+    "photo": "portada_unisal.jpg"
+  },
+  {
+    "name": "Universidad Santa Clara de Asís",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Santa Clara de Asís ofrece una formación académica en diversas disciplinas, destacando en áreas de ciencias sociales y humanidades, con un enfoque en valores cristianos.",
+    "majors": [9, 25, 112],
+    "photo": "portada_usca.jpg"
+  },
+  {
+    "name": "Universidad Sudamericana",
+    "acceptance_rate": "N/A",
+    "location": "Asunción, Paraguay",
+    "cost": "N/A",
+    "description": "La Universidad Sudamericana brinda educación superior en varias disciplinas, con un enfoque en el desarrollo profesional y la formación integral de los estudiantes.",
+    "majors": [112],
+    "photo": "portada_us.png"
+  },
+  {
+    "name": "Universidad Adventista del Paraguay",
+    "acceptance_rate": "N/A",
+    "location": "Fernando de la Mora, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad Adventista del Paraguay es una institución educativa cristiana de orientación adventista, ofreciendo programas en áreas como Enfermería y Ciencias de la Comunicación.",
+    "majors": [25],
+    "photo": "portada_unapy.jpeg"
+  },
+  {
+    "name": "Universidad Autónoma de Luque",
+    "acceptance_rate": "N/A",
+    "location": "Luque, Paraguay",
+    "cost": "N/A",
+    "description": "Universidad Autónoma de Luque es una universidad privada conocida por su enfoque en Derecho.",
+    "majors": [23],
+    "photo": "portada_ual.jpg"
+  }
+]
